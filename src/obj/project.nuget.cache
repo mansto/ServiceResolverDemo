@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "G1PknAs1G0pyTa/bXGtNtlVI6rKFoaNw1AihJl1XOgjW2N8Hxmj3uu0ODd+D5q7ITTgCZqcbw6gmR4VDiVEGJg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mstocker\\OneDrive - CTS Eventim Group\\Desktop\\ServiceResolverDemo\\ServiceResolverDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mstocker\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\mstocker\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
